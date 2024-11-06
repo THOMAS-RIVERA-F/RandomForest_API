@@ -13,8 +13,6 @@ def fetch_data():
     """Ejecuta una consulta SQL y convierte el resultado a un DataFrame."""
     
     MYSQL_USER = "consumptionservice"
-    MYSQL_PASSWORD = "CosumptionServiceP2*"
-    MYSQL_HOST = "34.56.103.175"
     MYSQL_PORT = 3306
     MYSQL_DB = "consumption_db"
     
